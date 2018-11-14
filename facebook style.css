@@ -1,0 +1,349 @@
+#hello
+{
+	height: 1250px;
+	width: 100px;
+}
+
+
+
+body
+{
+	background: linear-gradient(to bottom right, white, #bcbdc4);
+	height: 4000px;
+}
+
+
+.headerx
+{
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	top: 0;
+	left: 0;
+	color: white;
+	z-index: 7;
+	font-family: verdana;
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+}
+
+.header
+{
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	background: #142170;
+	top: 0;
+	left: 0;
+	color: white;
+	z-index: 7;
+	font-family: verdana;
+}
+
+#img1
+{
+	left: 80px;
+	height: 50px;
+	width: 110px;
+	top: 25px;
+
+}
+
+
+.java
+{
+	border: 1px solid white;
+	border-radius: 10px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -25.5px;
+	left: calc(50% - 50px);
+}
+
+
+#form1
+{
+	left: 700px;
+	top: 20px;
+	height: 60px;
+	width: 180px;
+	font-family: 'pacifico', cursive;
+}
+
+
+#form2
+{
+	left: 895px;
+	top: 20px;
+	height: 60px;
+	width: 200px;
+	font-family: 'pacifico', cursive;
+}
+
+
+.submit1
+{
+	left: 1100px;
+	top: 39px;
+	background: #142170;
+	color: white;
+	position: fixed;
+    z-index: 20;
+    height: 24px;
+    width: 60px;
+    border-radius: 10px;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 550;
+
+}
+
+.submit1:hover
+{
+	cursor: pointer;
+	background: #39dc79;
+	color: #000;
+}
+
+
+#name
+{
+	border: none;
+	border-radius: 2.5px;
+	height: 19px;
+	margin: 3px;
+	padding: 2px;
+	margin-right: 2px;
+}
+
+
+#niraj
+{
+	color: white;
+	outline: none;
+	text-decoration: none;
+}
+
+
+.bodyx
+{
+	position: absolute;
+	left: 0;
+	top: 100px;
+	width: 100%
+	height: 645px;
+}
+
+
+#intro1
+{
+	top: 40px;
+	left: 100px;
+	font-family: verdana;
+	font-size: 30px;
+	color: #142170;
+	height: 75px;
+	width: 550px;
+	font-family: 'pacifico', cursive;
+}
+
+#intro2
+{
+	top: 40px;
+	left: 700px;
+	font-family: verdana;
+	font-size: 50px;
+	color: #142170;
+	width: 500px;
+	height: 60px;
+}
+
+
+#img2
+{
+	top: 130px;
+	left: 100px;
+	height: 250px;
+	width: 550px;
+}
+
+
+.janak
+{
+	width: 514.5px;
+	height: 550px;
+	cursor: progress;
+
+	border-radius: 50%;
+	position: absolute;
+}
+
+
+#intro3
+{
+	top: 100px;
+	left: 700px;
+	font-family: verdana;
+	font-size: 20px;
+	color: #FF0000;
+	height: 50px;
+	width: 300px;
+	margin: 5px;
+	font-family: 'pacifico', cursive;
+
+}
+
+
+#form3
+{   
+	margin-top: 160px;
+	margin-left: 700px;
+	font-family: verdana;
+	font-size: 20px;
+	color: #142170;
+	width: 450px;
+	height: 495px;
+}
+
+
+#namebox
+{
+	width: 400px;
+	height: 30px;
+	border-radius: 10px/10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 5px;
+	outline: none;
+}
+
+
+#mailbox
+{
+	width: 400px;
+	height: 30px;
+	border-radius: 10px/10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 5px;
+	outline: none;
+}
+
+
+#ph
+{
+	width: 80px;
+	height: 53px;
+	border-radius: 10px/10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 5px;
+	box-shadow: 2px solid black;
+}
+
+
+#Number
+{
+	width: 314px;
+	height: 30px;
+	border-radius: 10px/10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 5px;
+	outline: none;
+}
+
+
+.button2
+{
+    width: 200px;
+    height: 50px;
+    margin-left: 690px;
+    margin-top: 1023px;
+    background: green;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    border-radius: 15px/15px;
+    cursor: pointer;
+    outline: none;
+    font-weight: 600;
+    font-family: 'pacifico', cursive;
+
+
+    
+}
+
+
+.button2:hover
+{
+	cursor: progress;
+	background: #39dc79;
+	color: black;
+
+}
+
+
+
+.body1
+{
+	position: absolute;
+	left: 0;
+	top: 1105px;
+	width: 100%;
+	height: 110px;
+	background: white;
+}
+
+
+
+#conclu1
+{
+	width: 930px;
+	top: 15px;
+	left: 200px;
+	color: #bcbdc4;
+	height: 60px;
+}
+
+
+#sagar
+{
+	color: #142170;
+	font-family: 'pacifico', cursive;
+}
+
+#kabi
+{
+	color: #142170;
+	font-family: 'pacifico', cursive;
+	font-weight: 800;
+}
+
+
+#sagar a
+{
+	text-decoration: none;
+	color: #3677bc;
+}
+
+#maya
+{
+	font-family: 'pacifico', cursive;
+	color: #FF0000;
+
+}
+
+
+#baby
+{
+	margin-left: 120px;
+	margin-top: 1px;
+	font-family: 'pacifico', cursive;
+
+}
